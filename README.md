@@ -2,16 +2,6 @@
 
 Este projeto é um site informativo sobre carros esportivos de luxo, apresentando modelos como Ferrari Spider, Porsche 911 Turbo e Lamborghini Aventador, com uma interface visual moderna e carrossel de imagens.
 
-## 🖼️ Imagens do Projeto
-
-### Ferrari Spider
-![Ferrari](images/ferrari.png)
-
-### Porsche 911 Turbo
-![Porsche](images/porsche.png)
-
-### Lamborghini Aventador
-![Lamborghini](images/lamborghini.png)
 
 ## 🧰 Tecnologias Utilizadas
 
